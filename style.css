@@ -283,10 +283,6 @@ a:hover {
     padding-left: 0;
 }
 
-#bloc-2-services p {
-    font-size: 11px;
-}
-
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -652,6 +648,73 @@ label,
     color: white;
 }
 
+.mg-md {
+    color: #364577;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.text1 {
+    font-family: "helvetica";
+    font-weight: 600;
+    color: #364577;
+    font-size: 12px;
+    text-align: center;
+}
+
+.text2 {
+    font-family: "helvetica";
+    font-weight: 600;
+    color: white;
+    font-size: 26px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.text3 {
+    font-family: "helvetica";
+    font-weight: 600;
+    color: white;
+    font-size: 14px;
+    text-align: center;   
+}
+
+.text4 {
+    font-family: "helvetica";
+    color: #364577;
+    font-size: 20px;
+    text-align: center;
+    text-transform: none;
+}
+
+.text5 {
+    font-family: "helvetica";
+    font-weight: 600;
+    color: #364577;
+    font-size: 14px;
+    text-align: center;
+}
+
+.text6 {
+    font-family: "helvetica";
+    font-weight: 600;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    z-index: 10;
+    text-transform: none;
+}
+
+.text7 {
+    font-family: "helvetica";
+    font-weight: 600;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
 a {
     font-family: "helvetica";
     font-weight: 500;
@@ -662,6 +725,7 @@ p {
     font-family: "helvetica";
     font-weight: 600;
     color: #364577;
+    font-size: 12px;
 }
 
 .footer {
@@ -693,10 +757,6 @@ p {
     font-weight: lighter;
     max-width: 520px;
     margin: auto auto auto auto;
-}
-
-p {
-    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -781,18 +841,12 @@ h4 {
     text-decoration: underline!important;
 }
 
-.service-header {
-    font-size: 15px;
-    font-weight: 700;
-    text-transform: uppercase;
-}
-
 .bgc-white {
     background-color: #FFFFFF;
 }
 
 .bgc-dark-slate-blue {
-    background-color: #F3976C;
+    background-color: #364577
 }
 
 .bgc-atomic-tangerine {
