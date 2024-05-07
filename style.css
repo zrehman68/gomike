@@ -645,13 +645,30 @@ h3,
 h4,
 h5,
 h6,
-p,
 label,
-.btn,
-a {
+.btn, {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: white;
+}
+
+a {
+    font-family: "helvetica";
+    font-weight: 500;
+    color: white;
+}
+
+p {
+    font-family: "helvetica";
+    font-weight: 600;
+    color: #364577;
+}
+
+.footer {
+    font-family: "helvetica";
+    font-weight: 800;
+    font-size: large;
+    color: white;
 }
 
 .container {
@@ -660,10 +677,12 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    color: white;
 }
 
 .hero-bloc-text-sub {
     font-size: 36px;
+    color: white;
 }
 
 .statement-bloc-text {
@@ -713,7 +732,7 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: white;
 }
 
 .med-width-whitespace {
@@ -723,7 +742,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: WHITE;
 }
 
 h4 {
@@ -773,7 +792,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #F3976C;
 }
 
 .bgc-atomic-tangerine {
@@ -781,7 +800,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: white;
 }
 
 .btn-atomic-tangerine {
